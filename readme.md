@@ -1,4 +1,4 @@
-# C++ Boilerplate
+# Valgrind Tool
 [![Build Status](https://travis-ci.org/sukoonsarin/ValgrindTool.svg?branch=master)](https://travis-ci.org/github/sukoonsarin/ValgrindTool)
 [![Coverage Status](https://coveralls.io/repos/github/sukoonsarin/ValgrindTool/badge.svg?branch=master)](https://coveralls.io/github/sukoonsarin/ValgrindTool?branch=master)
 ---
