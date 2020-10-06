@@ -49,6 +49,7 @@ To check for errors:
 
 ```
 cd <path to repo>
+cd build
 valgrind ./app/shell-app
 ```
 
