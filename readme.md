@@ -5,8 +5,7 @@
 
 ## Overview
 
-Simple starter C++ project with:
-A C++ exercise involving usage of Valgrind to identify and fix bugs. Valgrind is a multi-tool useful for identifying undefined behaviour, function and memory profiler, data-race detection and leak checking. Additional tools to valgrind are callgrind and massif that are used here. Callgrind generates an output file that shows the flow of the code and massif shows the memory allocation. KCachegrind is a visualization tool for viewing callgrind files.
+A C++ exercise involving usage of Valgrind to identify and fix bugs. Valgrind is a multi-tool useful for identifying undefined behaviour, function and memory profiling, data-race detection and leak checking. Additional tools to valgrind are callgrind and massif that are used here. Callgrind generates an output file that shows the flow of the code and massif shows the memory allocation. KCachegrind is a visualization tool for viewing callgrind files.
 
 
 ## Standard install via command-line
