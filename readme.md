@@ -59,3 +59,25 @@ For detailed results on memory leaks, use flags:
 valgrind --leak-check=full ./app/shell-app
 
 
+To use function and memory profiler:
+
+```
+valgrind --tool=callgrind ./app/shell-app
+valgrind --tool=massif ./app/shell-app
+```
+
+These generate callgrind and massif .out files in the build directory.
+
+Visualize the callgrind.out file in KCachegrind:
+```
+kcachegrind
+```
+
+Open the callgrind.out file in the tool
+
+To visualize the massif.out file:
+```
+ms_print <massif.out filename>
+```
+
+
