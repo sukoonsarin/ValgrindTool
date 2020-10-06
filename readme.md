@@ -57,7 +57,7 @@ For detailed results on memory leaks, use flags:
 
 ```
 valgrind --leak-check=full ./app/shell-app
-
+```
 
 To use function and memory profiler:
 
